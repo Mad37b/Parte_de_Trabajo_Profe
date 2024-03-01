@@ -1,0 +1,29 @@
+
+	Ejercicio Java Parte para un cliente
+
+	Objetivos:
+	
+	Dar de alta un parte
+	
+	
+	Condiciones:
+	
+	1) Controlar los focos 
+	
+	2) Controlar los estados 
+	
+	Estados:
+	
+	1)Fase Nif
+	
+	2)Fase Fecha
+	
+	3)Fase Obra
+	
+	4)Fase Empleado
+	
+	5)Fase Materiales
+	
+	6)Fase Servicios
+	
+	7) Fase Dar de alta -- Finaliza la aplicacion 
